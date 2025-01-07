@@ -1,5 +1,5 @@
 cards:
-  message: "Welcome to EazyBank cards related QA APIs"
+  message: "Welcome to EazyBank cards related PRODUCTION APIs"
   contactDetails:
     name: "prod - Developer"
     email: "prod@eazybank.com"
