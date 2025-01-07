@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to EazyBank accounts related Prod APIs"
+  message: "Welcome to EazyBank accounts related PRODUCTION APIs"
   contactDetails:
     name: "Prod - Developer"
     email: "{cipher}e6c5a7b7fbf82e87b28c1e8391cde61e948413a7c1c6ada2a04f7b9adf0616302e96b0cf42caf793183bf7648c988a1a"
