@@ -1,5 +1,5 @@
 cards:
-  message: "Welcome to EazyBank cards related PRODUCTION APIs"
+  message: "Welcome to EazyBank cards related RABBIT MQ PRODUCTION APIs"
   contactDetails:
     name: "prod - Developer"
     email: "prod@eazybank.com"
