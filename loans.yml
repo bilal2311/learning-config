@@ -1,0 +1,11 @@
+loans:
+  message: "this is eazy bank loans local apis"
+  contactDetails:
+    name: "bilal abbasi"
+    email: "bilal@example.com"
+  onCallSupport:
+    - 4165802305
+    - 9764855569
+  build:
+    version: "3.0"
+
